@@ -4,6 +4,8 @@
 
 > [!NOTE]
 > **This is a community maintained fork of archived [overextended/cfxlua-vscode](https://github.com/overextended/cfxlua-vscode).**
+> 
+> **Open VSX Support:** This PR adds automated publishing to Open VSX Registry alongside the existing Visual Studio Marketplace publishing, making the extension available to users of open-source VS Code alternatives like VSCodium.
 
 _This extension is not authored, published, sponsored, nor endorsed by Cfx.re._
 
