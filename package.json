@@ -3,11 +3,11 @@
   "displayName": "CfxLua IntelliSense",
   "description": "Natives and IntelliSense support for the Lua Script runtime used by FiveM and RedM.",
   "version": "1.10.12",
-  "publisher": "communityox",
+  "publisher": "anishbplayz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/communityox/cfxlua-vscode"
+    "url": "https://github.com/AnishBplayz/cfxlua-vscode-cursor"
   },
   "engines": {
     "vscode": "^1.71.0"

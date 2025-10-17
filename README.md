@@ -1,9 +1,11 @@
 # CfxLua IntelliSense (FiveM / RedM)
 
-![](https://img.shields.io/visual-studio-marketplace/d/communityox.cfxlua-vscode-cox) ![](https://img.shields.io/visual-studio-marketplace/i/communityox.cfxlua-vscode-cox)
+[![Open VSX Registry](https://img.shields.io/open-vsx/v/anishbplayz/cfxlua-vscode-cox)](https://open-vsx.org/extension/anishbplayz/cfxlua-vscode-cox) [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/anishbplayz/cfxlua-vscode-cox)](https://open-vsx.org/extension/anishbplayz/cfxlua-vscode-cox)
 
 > [!NOTE]
 > **This is a community maintained fork of archived [overextended/cfxlua-vscode](https://github.com/overextended/cfxlua-vscode).**
+> 
+> **Temporary Publishing Notice:** This extension is temporarily published under the `anishbplayz` namespace on Open VSX Registry until the community maintains official publishing. Once the community takes over publishing, this temporary version will be deprecated in favor of the official release.
 
 _This extension is not authored, published, sponsored, nor endorsed by Cfx.re._
 
